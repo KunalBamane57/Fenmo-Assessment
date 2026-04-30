@@ -173,13 +173,13 @@ function App() {
                 </div>
               ) : (
                 <ExpenseList
-                  expenses={paginatedExpenses}   // current page slice
+                  expenses={paginatedExpenses}
                   currentPage={currentPage}
                   setCurrentPage={setCurrentPage}
                   startIndex={startIndex}
                   itemsPerPage={itemsPerPage}
-                  totalCount={expenses.length}   // ← full list length for page math
-                  totalAmount={total}            // ← full list total for the summary banner
+                  totalCount={expenses.length}
+                  totalAmount={total}
                 />
               )}
             </div>

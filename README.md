@@ -152,7 +152,7 @@ npm run dev
 
 ## 🙌 Author
 
-Kunal Ashok Bamane
-kunal1234.bamane@gmail.com
+* Kunal Ashok Bamane
+* kunal1234.bamane@gmail.com
 
 ---
